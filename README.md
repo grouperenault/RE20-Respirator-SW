@@ -13,9 +13,7 @@ Contributors are MakAir for life, Renault, Renault Sport and CEA.
 
 As to ensure best  international dissemination, most contents required to build your own MakAir RE20 by Renault ventilator are available in English. 
 
-If you're new there, please read the explanations below.?Your contributions are much welcome! 
-
-Saut de page
+If you're new there, please read the explanations below. *Your contributions are much welcome!* 
  
 
 ## General informations : 
