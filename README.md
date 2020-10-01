@@ -1,6 +1,8 @@
 # RE20-Respirator-SW
 All the files in this directory (and its subdirectories) are subject to the GPL V3 licence.
 
+Pierre was here.
+
 # MakAir RE20 by Renault   Ventilator 
 
 Mass-producible open-source multi-usage ventilator.  
@@ -38,7 +40,7 @@ If you're new there, please read the explanations below. *Your contributions are
 
 * Overhaul / cleaning facilitated by the use of Pinch Valves 
 
-* Manufacturing cost price between € 1000 and € 2,500 depending on version and volumes 
+* Manufacturing cost price between â‚¬ 1000 and â‚¬ 2,500 depending on version and volumes 
 
 * Noise level less than 50 dB, capable of 40 dB (depending on ambient thermal conditions) 
 
